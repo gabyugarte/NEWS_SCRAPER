@@ -1,0 +1,21 @@
+TECNOLOGÍA
+
+Un estudio de la Universidad Nacional encontró que el espectro de red en Colombia es entre dos y tres veces más caro que el precio promedio en América Latina
+
+Una mayor conectividad y cobertura de servicios móviles impactan positivamente al crecimiento económico de un país, fue una de las conclusiones de un estudio del Centro de Investigaciones para el Desarrollo de la Universidad Nacional (CID).
+El análisis detalla que entre más se aumentan los servicios móviles de voz y datos, se mejoran las variables socioeconómicas como empleo, salud, educación y producción.
+El estudio recopiló una serie de investigaciones alrededor del mundo que muestran el impacto que tiene la penetración de la 
+ en el Producto Interno Bruto (PIB) de las economías.
+En el caso de Colombia, según una muestra recogida entre 2012 y 2018, un aumento de 10% en la penetración de la conectividad de alta velocidad hizo crecer el PIB en 1,6%.
+De acuerdo con el informe, si hay un incremento de 350.000 suscriptores en los planes de voz y datos que ofrecen los operadores del mercado, se puede impactar en 0,09 puntos porcentuales del crecimiento del PIB.
+También se recogieron otras muestras como los 24 países que hacían parte de la Ocde entre 1996 y 2007, cuando Colombia no hacía parte de ella, en los que la penetración de la banda ancha hizo crecer esas economías en 1,5%.
+“Lo interesante en este estudio es que concluye que el espectro y la conectividad son fundamentales para jalonar el crecimiento económico, el desarrollo social, la inclusión y los indicadores como salud y educación”, puntualiza Samuel Hoyos, presidente de Asomovil.
+“En la medida en que la conectividad penetre en el territorio y en los hogares y si se despliega la infraestructura para garantizar el servicio, todos estos indicadores van a mejorar”, agregó.
+Otra de las conclusiones del análisis de la Universidad Nacional fue que, si Colombia logra un aumento adicional de 350.000 suscriptores de servicios móviles, se podría generar un incremento de 4.000 cotizantes a salud. Además, el mismo aumento de usuarios de voz y datos podría significar un aumento del empleo formal en casi dos puntos porcentuales y está asociado a una reducción en el decrecimiento de la formalidad de 14.000 personas.
+En la educación también tiene un impacto positivo. Por cada 350.000 suscriptores adicionales, las tasas de crecimiento en los años de educación pasaría de 0,0017% a 0,0217%.
+
+El estudio del Centro de Investigaciones para el Desarrollo de la Universidad Nacional encontró también que el espectro de 1.900 MHz es tres veces más caro en Colombia, que en el promedio regional de Latinoamérica.
+Mientras que el costo nacional oscila entre US$0,25 y US$0,26, los precios internacionales están desde US$0,07 y máximo US$0,19, según diferentes investigaciones recogidas por el estudio.
+“Tenemos uno de los espectros más costosos de la región, entre dos y tres veces. Si en Colombia no tenemos una política de espectro que se ajuste a los parámetros internacionales y haga una valoración de acuerdo al mercado, será difícil cerrar la brecha y que entren inversiones al país”, señaló Hoyos.
+
+En 2021, más de la mitad de los hogares colombianos tuvieron acceso a internet. De acuerdo con la Encuesta de Tecnologías de la Información y las Comunicaciones en Hogares revelada por el Dane, la cifra nacional llegó a 60,5%. La velocidad de conexión a internet fijo más contratada está entre 2 y 10 megas con 37,1% a nivel nacional, siendo aún mayor la proporción en los centros poblados y las zonas rurales apartadas con 62,3%. El segundo rango de velocidad de conexión es entre 10 y 30 megas con 24,3% y le sigue el rango entre 30 y 100 megas con 19,3%.
